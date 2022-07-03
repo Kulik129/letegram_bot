@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "25xtTUls1hZILX8eloJDOJJ6J3gUhkvMtxvLE2VwQ8lEyoaaHTDXHjDcWII5il72teiGnbCf07r6POdMhDpiEQ==",
+  "success": true,
+  "projectFilePath": "/Users/mitya.kulikbk.ru/Desktop/Oh my BOT/TeleBot/TeleBot.csproj",
+  "expectedPackageFiles": [
+    "/Users/mitya.kulikbk.ru/.nuget/packages/newtonsoft.json/13.0.1/newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
